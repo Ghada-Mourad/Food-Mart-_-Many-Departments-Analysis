@@ -3,6 +3,8 @@
 <img width="1378" height="582" alt="Screenshot 2026-08-01 003250" src="https://github.com/user-attachments/assets/01c191ba-30b6-407b-9b2b-b176b00b4567" />
 <img width="1717" height="632" alt="Screenshot 2026-08-01 003318" src="https://github.com/user-attachments/assets/a07bfb7b-5c96-4cc9-b208-f43fea32ffa4" />
 <img width="1573" height="247" alt="Screenshot 2026-08-01 003345" src="https://github.com/user-attachments/assets/11b88aca-f6b8-4cbb-8079-a84c3063b5bb" />
+<img width="1080" height="803" alt="WhatsApp Image 2026-08-02 at 7 03 36 PM" src="https://github.com/user-attachments/assets/acd2df4e-89c2-487c-b781-395e5e03c77d" />
+
 About The Project:
 This project is an interactive Microsoft Excel dashboard designed to analyze Food Mart's sales performance and customer demographics across the USA, Mexico, and Canada. The goal is to transform raw retail data into clear, actionable business insights to help decision-makers understand revenue drivers, regional performance, and customer behavior.
 
